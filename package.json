@@ -1,0 +1,17 @@
+{
+  "name": "resource-tracker",
+  "version": "0.0.1",
+  "description": "Resource tracking bot for discord and minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Em.2",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.1.1"
+  }
+}
